@@ -1,0 +1,20 @@
+
+header {
+    background-color: rgb(52, 199, 96);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+h1 {
+    color: white;
+}
+.links button {
+    margin: 5px;
+    color:  rgb(52, 199, 96);
+    border:  rgb(52, 199, 96);
+    border-radius: 3px;
+    padding: 3px 6px 3px 6px;
+}

@@ -1,0 +1,34 @@
+
+header {
+    background-color: rgb(52, 182, 199);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+h1 {
+    color: white;
+    margin-bottom: 0px;
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    
+}
+p {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    color: white;
+    margin-top: 0px;
+}
+.links button {
+    margin: 5px 25px 5px 25px;
+    color:  white;
+    background-color:  rgb(52, 182, 199);
+    border: none;
+    
+   
+}
